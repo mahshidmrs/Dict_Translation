@@ -1,4 +1,5 @@
 # Dict_Translation
+**Problem:**
 
 Nima, due to his lack of proficiency in the English language, is required to attend international competitions accompanied by a translator. Since bringing another person for translation incurs high costs, Nima decides to look for an alternative solution. Now, you must assist Nima by writing a translator program. The program should read a dictionary and the corresponding sentence from the input and translate the sentence according to the specified language. If a word does not exist in the dictionary, print the word itself in the output.
 
